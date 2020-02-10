@@ -42,6 +42,9 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 1.3 =
+* Nothing just checking Github auto updates
+
 = 1.2 =
 * Checking Github Auto updates
 

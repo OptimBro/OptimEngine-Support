@@ -5,7 +5,7 @@
 * @wordpress-plugin
 * Plugin Name:      OptimEngine Support Client
 * Description:      Keep this activated if your site is hosted by OptimEngine managed hosting. This is a must have plugin which helps us to do regular maintenance of your site and provide you support.
-* Version:          1.2
+* Version:          1.3
 * Author:           OptimEngine
 * License:          GPL-2.0+
 * License URI:      http://www.gnu.org/licenses/gpl-2.0.txt
