@@ -42,6 +42,9 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 1.2 =
+* Checking Github Auto updates
+
 = 1.1 =
 * Checking Github Auto updates
 * Updated MainWP Child Client
