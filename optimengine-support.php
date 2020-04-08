@@ -25,4 +25,5 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 //Optional: Set the branch that contains the stable release.
 $myUpdateChecker->setBranch('master');
 
+require __DIR__ . '/flush-redis-cache.php';
 require __DIR__ . '/mainwp-child/mainwp-child.php';
