@@ -20,10 +20,10 @@ function redis_add_toolbar_link( $wp_admin_bar )
 			
 			$RedisPage = is_multisite() ? 'settings.php?page=redis-cache' : 'options-general.php?page=redis-cache';
 			
-			// Flush Redis Cache trough WP Rocket Admin Bar Menu
+			// Flush Server Cache
 			$args = array(
 				'id'     => 'flush-redis-cache',
-				'title'  => __( 'Flush Redis Cache' ) . '',
+				'title'  => __( 'Flush Server Cache' ) . '',
 				'parent' => false,
 				'href'  => wp_nonce_url( network_admin_url( add_query_arg( 'action', 'flush-cache', $RedisPage ) ), 'flush-cache' )
 			);
