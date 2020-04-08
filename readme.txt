@@ -3,7 +3,7 @@ Contributors: OptimEngine
 Donate link: https://optimengine.com/
 Tags: support, updates, maintainane
 Requires at least: 4.6
-Tested up to: 4.7
+Tested up to: 5.0
 Stable tag: 4.3
 Requires PHP: 5.2.4
 License: GPLv2 or later
@@ -41,6 +41,9 @@ An answer to that question.
 Answer to foo bar dilemma.
 
 == Changelog ==
+
+= 1.6 =
+* Code fix 
 
 = 1.5 =
 * Update 
