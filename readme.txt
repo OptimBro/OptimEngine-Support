@@ -42,6 +42,9 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 1.5 =
+* Update 
+
 = 1.4 =
 * Added Redis Flush Button 
 
