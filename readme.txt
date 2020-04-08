@@ -42,6 +42,9 @@ Answer to foo bar dilemma.
 
 == Changelog ==
 
+= 1.4 =
+* Added Redis Flush Button 
+
 = 1.3 =
 * Nothing just checking Github auto updates
 
