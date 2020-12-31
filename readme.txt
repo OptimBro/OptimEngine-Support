@@ -13,7 +13,7 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-Keep this activated if your site is hosted by OptimEngine managed hosting. This is a must have plugin which helps us to do regular maintenance of your site and provide you support
+This is important. Keep this activated if your site is hosted by OptimEngine managed hosting. This is a must have plugin which helps us to do regular maintenance of your site and provide you support
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
 Markdown parsed.
