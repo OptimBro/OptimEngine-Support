@@ -1,5 +1,5 @@
 === OptimEngine Support ===
-Contributors: OptimEngine
+Contributors: OptimEngine Hosting
 Donate link: https://optimengine.com/
 Tags: support, updates, maintainane
 Requires at least: 4.6
